@@ -1,0 +1,21 @@
+products=[
+
+    {
+        "id":1,
+        "productname":"camera",
+        "category":"electronics",
+        "prize":50000,
+        },
+        {
+        "id":2,
+        "productname":"ipod",
+        "category":"electronics",
+        "prize":5000,
+        },
+        {
+        "id":3,
+        "productname":"lens",
+        "category":"hardware",
+        "prize":25000,
+        }
+]
